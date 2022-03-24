@@ -13,8 +13,11 @@ close all
 
 t=0:0.001:1;
 
+y=mySinFnc(t);
+
+
 figure
-plot(t,sin(2*pi*10*t))
+plot(t,y)
  grid on
  ylabel('Y')
  xlabel('t')
