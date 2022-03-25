@@ -5,6 +5,8 @@
 % MATLAB Script to learn GIT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+% Hi Gordon
+
 clear
 clc
 close all
